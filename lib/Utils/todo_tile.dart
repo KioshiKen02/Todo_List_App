@@ -26,7 +26,7 @@ class ToDoTile extends StatelessWidget {
             SlidableAction(
               onPressed: deleteFunction,
               icon: Icons.delete,
-              backgroundColor: Colors.red,
+              backgroundColor: Colors.black,
               borderRadius: BorderRadius.circular(12),
             ),
           ],
